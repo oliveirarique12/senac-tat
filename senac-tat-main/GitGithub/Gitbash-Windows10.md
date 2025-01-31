@@ -5,4 +5,4 @@ Ele é útil para desenvolvedores que trabalham com controle de versão e querem
 
 O que é e para que serve o GitHub
 
-O GitHub é uma plataforma online que usa o Git para controle de versão, permitindo armazenar, colaborar e gerenciar projetos de software. Ele facilita o trabalho em equipe, a automação de testes e o compartilhamento de código.
+O GitHub é uma plataforma online que usa o Git para controle de versão, permitindo armazenar, colaborar e gerenciar projetos de software. Ele facilita o trabalho em equipe, a automação de testes e o compartilhamento de código.exi
